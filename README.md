@@ -17,12 +17,11 @@
 ### Problem Statement:
     You are given a dataset of OVER 24,000 content and their Reaction Type collected over a year from June 2020 till June 2021.  
     •	To Find Top 5 categories with the largest popularity
-
     7 data sets - each data set contains different columns and values.
 ### Steps Performed in this Project:
     1.	Requirement Gathering : This steps consists of finding the Dataset which are relevant for the analysis,
-    So out of 7 dataset, I have used 3 dataset namely Reactions.csv, Content.csv, Reaction Type to answer the
-    business question to figure out the top 5 categories with the largest popularity.
+        So out of 7 dataset, I have used 3 dataset namely Reactions.csv, Content.csv, Reaction Type to answer the
+        business question to figure out the top 5 categories with the largest popularity.
 
     2.	Data Cleaning: This step consists of cleaning the gathered data like to remove null values and inconsistencies. 
 
